@@ -84,7 +84,7 @@ def write_file():
     
     return all_moves
 
- # def split_moves_between_players_and_pop():
+def split_moves_between_players_and_pop():
     global result_of_moves
     global player_one_moves
     global player_two_moves
